@@ -14,4 +14,4 @@ function PokemonCollection(props : Props) {
   )
 }
 
-export default PokemonCollection
+export default PokemonCollection 
